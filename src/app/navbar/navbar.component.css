@@ -5,6 +5,12 @@
   min-height: 68px;
 }
 
+.logo {
+  width: 100px;
+  height: 40px;
+  object-fit: cover;
+}
+
 h1 {
   font-weight: bold;
 }
