@@ -1,0 +1,60 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 68px;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 180px;
+}
+
+input {
+  border: none;
+  outline: none;
+}
+
+.notification {
+  position: relative;
+}
+
+.number {
+  position: absolute;
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  background-color: #336DFF;
+  color: #fff;
+  top: -5px;
+  left: 10px;
+  padding-left: 4px;
+}
+
+.number span {
+  display: block;
+  text-align: center;
+}
+
+.user-pic {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+}
+
+.username {
+  color: #5A607F;
+}

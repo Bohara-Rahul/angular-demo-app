@@ -1,0 +1,13 @@
+button {
+  background-color: #336DFF;
+  outline: none;
+  border: none;
+  color: #fff;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size:larger
+}
