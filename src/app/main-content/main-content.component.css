@@ -6,11 +6,10 @@
   padding-bottom: 0;
 }
 
-.headline {
+.subtitle {
   font-weight: bold;
   margin-top: 20px;
   font-weight: bold;
-  font-size:larger;
 }
 
 .order-content {
@@ -30,14 +29,9 @@ a {
   font-size: larger;
 }
 
-.list {
-  font-size: 200px;
-  margin-bottom: 25px;
-  background-color: blue;
-  color: #fff;
-}
 
 .desc {
   color: #5A607F;
   margin-bottom: 20px;
+  line-height: 30px;
 }
